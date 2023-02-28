@@ -1,0 +1,8 @@
+# comments
+folder4/* @boxboat/internal
+folder1 @boxboat/engineering
+folder2 @boxboat/engineering
+*3 @boxboat/engineering
+newfile @boxboat/engineering
+.github @boxboat/engineering
+**/test @boxboat/internal @boxboat/engineering
