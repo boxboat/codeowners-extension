@@ -11,7 +11,7 @@ on:
     branches: [ "main" ]
 jobs:
   caller:
-    uses: boxboat/reusable-workflows/.github/workflows/codeowners-check.yml@main
+    uses: boxboat-demo/reusable-workflows/.github/workflows/codeowners-check.yml@main
     secrets: inherit
 ```
 
