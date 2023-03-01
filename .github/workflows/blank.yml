@@ -1,0 +1,10 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Codespaces Check
+on:
+  pull_request:
+    branches: [ "main" ]
+jobs:
+  caller:
+    uses: boxboat-demo/reusable-workflows/.github/workflows/codeowners-check.yml@main
+    secrets: inherit
