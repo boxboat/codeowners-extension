@@ -1,8 +1,8 @@
 # comments
-folder4/* @boxboat-demo/not-dank-team
-folder1 @boxboat-demo/dank-team
-folder2 @boxboat-demo/dank-team
-*3 @boxboat-demo/dank-team
-newfile @boxboat-demo/dank-team
-.github @boxboat-demo/dank-team
-**/test @boxboat-demo/not-dank-team @boxboat-demo/dank-team
+folder4/* @boxboat/fishbot-team
+folder1 @boxboat/dank-team
+folder2 @boxboat/dank-team
+*3 @boxboat/dank-team
+newfile @boxboat/dank-team
+.github @boxboat/dank-team
+**/test @boxboat/fishbot-team @boxboat/dank-team
